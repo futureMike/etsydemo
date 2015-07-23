@@ -1,0 +1,9 @@
+rake dropbox:authorize APP_KEY=n96ap9661ojpcv4 APP_SECRET=6bbpwoj26mcbm0l ACCESS_TYPE=app_folder
+
+Visit this URL: https://www.dropbox.com/1/oauth/authorize?oauth_token=wrWd9iHLQx5hpHyp
+
+access_token: f599vk09cz9zbfu2
+access_token_secret: ri8ltrrgi2nhzfg
+user_id: 447866038
+
+C:\Users\Mike_Kennedy\Desktop\ROR\etsydemo>
